@@ -80,8 +80,11 @@ void loop() {
 }
 ```
 Instalar la libreria de LiquidCrystal I2C y DHT sensor library for ESPx como se muestra en la siguiente imagen.
-![]()
-![]()
+
+![](https://github.com/AlejandroBarreraU/Practica-5/blob/main/instalar%20librerias.png?raw=true)
+
+
+![](https://github.com/AlejandroBarreraU/Practica-5/blob/main/instalar%20librerias%202.png?raw=true)
 ## Instrucciones de operación
 1. Iniciar simulador.
 2. Visualizar los datos en el monitor serial.
@@ -90,8 +93,11 @@ Instalar la libreria de LiquidCrystal I2C y DHT sensor library for ESPx como se 
 5. Colocar los valores de temperatura y humedad dando doble click al sensor DHT11.
 ## Conexiones
 Hacer las siguientes conexiones
-![]()
+![](https://github.com/AlejandroBarreraU/Practica-5/blob/main/conexiones%20p5.png?raw=true)
 ## Resultados
 Se mostrarás los siguientes datos una vez ejecutado.
+![](https://github.com/AlejandroBarreraU/Practica-5/blob/main/resultado%20p51.png?raw=true)
+![](https://github.com/AlejandroBarreraU/Practica-5/blob/main/resultado%20p52.png?raw=true)
+![](https://github.com/AlejandroBarreraU/Practica-5/blob/main/resultado%20p53.png?raw=true)
 ## Créditos
 Desarrollado por Ing. Alejandro Barrera
